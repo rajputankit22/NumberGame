@@ -85,7 +85,7 @@ function check() {
         document.getElementById("msg").innerHTML= "You have won ₹300 as all Numbers are odd.";
     } else {
         document.getElementById("numbers").innerHTML= numList;
-        document.getElementById("msg").innerHTML= "You were not luck this time.";
+        document.getElementById("msg").innerHTML= "You were not lucky this time.";
     }
     console.log(balance);
 
